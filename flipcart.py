@@ -1,4 +1,4 @@
-username = input(' enter your username: ')
+username = input(' enter your usernameee: ')
 if username == 'Put Your Username Here':#change this
    print("checking username")
    time.sleep(0.5)
